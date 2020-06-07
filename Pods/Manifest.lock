@@ -1,0 +1,16 @@
+PODS:
+  - SwapkeySDK (1.34)
+
+DEPENDENCIES:
+  - SwapkeySDK
+
+SPEC REPOS:
+  trunk:
+    - SwapkeySDK
+
+SPEC CHECKSUMS:
+  SwapkeySDK: b64df9d10243bfa2b33688de81ac3c72fbebd977
+
+PODFILE CHECKSUM: 04202baa0477c5dae8bc13950b42d849aa5d9794
+
+COCOAPODS: 1.9.3
